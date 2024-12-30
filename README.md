@@ -9,7 +9,6 @@ This program implements a basic TCP echo server that listens on a specified port
 ```sh
 ./server <PORT>
 ```
-````
 
 ### Arguments
 
